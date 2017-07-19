@@ -1,0 +1,1003 @@
+{
+  "people": [{
+    "id": 0,
+    "name": "Anya O'Reilly",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/iduuck/128.jpg",
+    "title": "National Applications Executive",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Stokes and Sons",
+      "phrase": "Distributed homogeneous open architecture"
+    }
+  }, {
+    "id": 1,
+    "name": "Viviane Volkman",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/joshuaraichur/128.jpg",
+    "title": "Regional Paradigm Associate",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Buckridge Inc",
+      "phrase": "Synergistic full-range collaboration"
+    }
+  }, {
+    "id": 2,
+    "name": "Blake Sipes",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/scips/128.jpg",
+    "title": "Direct Creative Director",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Bahringer, Shields and Marks",
+      "phrase": "Realigned mobile knowledge user"
+    }
+  }, {
+    "id": 3,
+    "name": "Yvonne Schuppe",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/thehacker/128.jpg",
+    "title": "Chief Data Producer",
+    "team": "Development-Macys",
+    "company": {
+      "name": "McLaughlin, Mayert and Lockman",
+      "phrase": "User-friendly bifurcated flexibility"
+    }
+  }, {
+    "id": 4,
+    "name": "Emelie Predovic",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/aio___/128.jpg",
+    "title": "Legacy Branding Producer",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Koepp - Hoeger",
+      "phrase": "Streamlined analyzing firmware"
+    }
+  }, {
+    "id": 5,
+    "name": "Ms. Chadd VonRueden",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/karalek/128.jpg",
+    "title": "Lead Infrastructure Planner",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Mayer - Boyer",
+      "phrase": "Configurable zero tolerance matrix"
+    }
+  }, {
+    "id": 6,
+    "name": "Jazmin Senger",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/amayvs/128.jpg",
+    "title": "District Accountability Representative",
+    "team": "Development-Macys",
+    "company": {
+      "name": "McDermott - Shanahan",
+      "phrase": "Automated empowering throughput"
+    }
+  }, {
+    "id": 7,
+    "name": "Chloe Greenfelder",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/nepdud/128.jpg",
+    "title": "Corporate Assurance Director",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Mann - Beier",
+      "phrase": "Up-sized tangible capability"
+    }
+  }, {
+    "id": 8,
+    "name": "Jamey Glover",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/geobikas/128.jpg",
+    "title": "Global Communications Architect",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Smitham - Ratke",
+      "phrase": "Profit-focused next generation workforce"
+    }
+  }, {
+    "id": 9,
+    "name": "Ms. Roslyn King",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/ripplemdk/128.jpg",
+    "title": "International Web Engineer",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Lemke Group",
+      "phrase": "Exclusive asymmetric process improvement"
+    }
+  }, {
+    "id": 10,
+    "name": "Brian McKenzie",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/peachananr/128.jpg",
+    "title": "Customer Solutions Technician",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Moen LLC",
+      "phrase": "Upgradable system-worthy software"
+    }
+  }, {
+    "id": 11,
+    "name": "Georgianna Gleason",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/mateaodviteza/128.jpg",
+    "title": "Customer Infrastructure Administrator",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Ruecker - Gaylord",
+      "phrase": "Horizontal neutral data-warehouse"
+    }
+  }, {
+    "id": 12,
+    "name": "Dagmar Pfeffer",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/vicivadeline/128.jpg",
+    "title": "Direct Interactions Associate",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Daugherty, Glover and Metz",
+      "phrase": "Phased secondary system engine"
+    }
+  }, {
+    "id": 13,
+    "name": "Francisca Gerhold",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/madshensel/128.jpg",
+    "title": "Internal Web Consultant",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Bartell Group",
+      "phrase": "Streamlined global contingency"
+    }
+  }, {
+    "id": 14,
+    "name": "Moises Boyer",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/bermonpainter/128.jpg",
+    "title": "Global Infrastructure Manager",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Price - Hane",
+      "phrase": "Digitized client-driven approach"
+    }
+  }, {
+    "id": 15,
+    "name": "Ben Muller",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/baires/128.jpg",
+    "title": "Future Directives Associate",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Balistreri Inc",
+      "phrase": "Horizontal coherent Graphical User Interface"
+    }
+  }, {
+    "id": 16,
+    "name": "Verlie Conroy",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/guiiipontes/128.jpg",
+    "title": "District Tactics Consultant",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Nienow Inc",
+      "phrase": "Enterprise-wide demand-driven time-frame"
+    }
+  }, {
+    "id": 17,
+    "name": "Dr. Verner Bradtke",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/okandungel/128.jpg",
+    "title": "Internal Tactics Manager",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Leannon - Reynolds",
+      "phrase": "Team-oriented composite service-desk"
+    }
+  }, {
+    "id": 18,
+    "name": "Roxane Donnelly",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/cdharrison/128.jpg",
+    "title": "Regional Data Consultant",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Glover, Sauer and Hahn",
+      "phrase": "Robust content-based budgetary management"
+    }
+  }, {
+    "id": 19,
+    "name": "Garret Runolfsdottir",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/traneblow/128.jpg",
+    "title": "Human Implementation Planner",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Kassulke, Emmerich and Larkin",
+      "phrase": "Visionary directional solution"
+    }
+  }, {
+    "id": 20,
+    "name": "Keeley Hintz",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/rawdiggie/128.jpg",
+    "title": "National Integration Assistant",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Stracke - Dare",
+      "phrase": "Virtual bi-directional algorithm"
+    }
+  }, {
+    "id": 21,
+    "name": "Candice Koss",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/noufalibrahim/128.jpg",
+    "title": "Investor Quality Supervisor",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Morissette Inc",
+      "phrase": "Multi-layered motivating instruction set"
+    }
+  }, {
+    "id": 22,
+    "name": "Gavin Smitham",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/johncafazza/128.jpg",
+    "title": "Senior Infrastructure Consultant",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Zieme - Rosenbaum",
+      "phrase": "Operative object-oriented intranet"
+    }
+  }, {
+    "id": 23,
+    "name": "Hassan McKenzie",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/dreizle/128.jpg",
+    "title": "Regional Mobility Representative",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Littel and Sons",
+      "phrase": "Cross-group directional core"
+    }
+  }, {
+    "id": 24,
+    "name": "Icie Macejkovic",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/chadengle/128.jpg",
+    "title": "Principal Creative Officer",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Moen - Deckow",
+      "phrase": "Open-source empowering access"
+    }
+  }, {
+    "id": 25,
+    "name": "Jerad Torphy V",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/chanpory/128.jpg",
+    "title": "Global Infrastructure Manager",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Reilly - Deckow",
+      "phrase": "Universal static product"
+    }
+  }, {
+    "id": 26,
+    "name": "Bethany Hackett",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/collegeman/128.jpg",
+    "title": "Central Brand Developer",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Homenick LLC",
+      "phrase": "Persevering web-enabled matrix"
+    }
+  }, {
+    "id": 27,
+    "name": "Emmanuel Mante",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/gusoto/128.jpg",
+    "title": "Dynamic Identity Coordinator",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Balistreri - Rutherford",
+      "phrase": "Balanced disintermediate contingency"
+    }
+  }, {
+    "id": 28,
+    "name": "Savanna Green",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/haligaliharun/128.jpg",
+    "title": "Central Tactics Technician",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Wilkinson and Sons",
+      "phrase": "Customer-focused bi-directional customer loyalty"
+    }
+  }, {
+    "id": 29,
+    "name": "Vidal Nikolaus",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/craighenneberry/128.jpg",
+    "title": "Dynamic Brand Liaison",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Pollich - McClure",
+      "phrase": "Enterprise-wide responsive hub"
+    }
+  }, {
+    "id": 30,
+    "name": "Kaycee Olson",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/twittypork/128.jpg",
+    "title": "Senior Configuration Producer",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Tillman Inc",
+      "phrase": "Function-based analyzing migration"
+    }
+  }, {
+    "id": 31,
+    "name": "Tremayne Kiehn",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/jm_denis/128.jpg",
+    "title": "Customer Communications Consultant",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Sauer, Bashirian and Walsh",
+      "phrase": "Organic multi-tasking protocol"
+    }
+  }, {
+    "id": 32,
+    "name": "Calista Feest",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/adamawesomeface/128.jpg",
+    "title": "Customer Solutions Liaison",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Mohr - Osinski",
+      "phrase": "Innovative executive knowledge user"
+    }
+  }, {
+    "id": 33,
+    "name": "Alfredo Wisozk",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/BryanHorsey/128.jpg",
+    "title": "Corporate Usability Representative",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Schuster Group",
+      "phrase": "Multi-lateral actuating encoding"
+    }
+  }, {
+    "id": 34,
+    "name": "Carlie Streich",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/1markiz/128.jpg",
+    "title": "Regional Factors Administrator",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Goodwin, Spencer and Ebert",
+      "phrase": "Integrated homogeneous secured line"
+    }
+  }, {
+    "id": 35,
+    "name": "Jimmie Treutel",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/taybenlor/128.jpg",
+    "title": "Product Intranet Designer",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Parker LLC",
+      "phrase": "Distributed asymmetric encoding"
+    }
+  }, {
+    "id": 36,
+    "name": "Isabell Champlin",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/thaisselenator_/128.jpg",
+    "title": "Central Directives Engineer",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Kuvalis - Marvin",
+      "phrase": "Advanced zero tolerance knowledge base"
+    }
+  }, {
+    "id": 37,
+    "name": "Noemi White",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/psaikali/128.jpg",
+    "title": "Investor Solutions Developer",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Abshire - Bruen",
+      "phrase": "Object-based needs-based framework"
+    }
+  }, {
+    "id": 38,
+    "name": "Markus Hegmann",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/Talbi_ConSept/128.jpg",
+    "title": "Global Intranet Executive",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Hammes - Jakubowski",
+      "phrase": "Fundamental empowering artificial intelligence"
+    }
+  }, {
+    "id": 39,
+    "name": "Jovany Fahey DVM",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/mbilderbach/128.jpg",
+    "title": "Dynamic Integration Coordinator",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Sawayn and Sons",
+      "phrase": "Diverse tertiary knowledge base"
+    }
+  }, {
+    "id": 40,
+    "name": "Kaela O'Conner",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/thekevinjones/128.jpg",
+    "title": "Dynamic Functionality Analyst",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Erdman - Buckridge",
+      "phrase": "Seamless heuristic success"
+    }
+  }, {
+    "id": 41,
+    "name": "Raoul Dibbert",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/eugeneeweb/128.jpg",
+    "title": "Forward Accountability Producer",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Nader Inc",
+      "phrase": "Down-sized 3rd generation product"
+    }
+  }, {
+    "id": 42,
+    "name": "Donald Rippin",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/teeragit/128.jpg",
+    "title": "Human Infrastructure Specialist",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Beahan - McLaughlin",
+      "phrase": "Fully-configurable incremental archive"
+    }
+  }, {
+    "id": 43,
+    "name": "Newell Tromp",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/tweetubhai/128.jpg",
+    "title": "Regional Assurance Engineer",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Wuckert, Gleason and Gottlieb",
+      "phrase": "Front-line 6th generation benchmark"
+    }
+  }, {
+    "id": 44,
+    "name": "Mrs. Golda Tromp",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/kaelifa/128.jpg",
+    "title": "Central Communications Strategist",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Prosacco - Wintheiser",
+      "phrase": "Realigned systematic model"
+    }
+  }, {
+    "id": 45,
+    "name": "Jamel O'Kon",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/thinkleft/128.jpg",
+    "title": "International Creative Associate",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Eichmann and Sons",
+      "phrase": "Optional web-enabled encryption"
+    }
+  }, {
+    "id": 46,
+    "name": "Ayana Mills",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/safrankov/128.jpg",
+    "title": "Regional Factors Assistant",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Legros Group",
+      "phrase": "Synergistic incremental pricing structure"
+    }
+  }, {
+    "id": 47,
+    "name": "Rodrick Bogisich",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/mkginfo/128.jpg",
+    "title": "Corporate Mobility Assistant",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Schimmel, Boyle and O'Conner",
+      "phrase": "Seamless optimal approach"
+    }
+  }, {
+    "id": 48,
+    "name": "Chelsie Rippin",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/nemanjaivanovic/128.jpg",
+    "title": "Internal Functionality Officer",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Runolfsdottir Group",
+      "phrase": "Re-contextualized secondary portal"
+    }
+  }, {
+    "id": 49,
+    "name": "Junior Walsh",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/baumann_alex/128.jpg",
+    "title": "Future Implementation Architect",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Rau and Sons",
+      "phrase": "Centralized systemic service-desk"
+    }
+  }, {
+    "id": 50,
+    "name": "Mona Bartell",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/amywebbb/128.jpg",
+    "title": "Lead Interactions Assistant",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Oberbrunner, Spencer and Batz",
+      "phrase": "Sharable contextually-based artificial intelligence"
+    }
+  }, {
+    "id": 51,
+    "name": "Kenna McCullough",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/buddhasource/128.jpg",
+    "title": "Senior Web Producer",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Morar and Sons",
+      "phrase": "Open-source next generation structure"
+    }
+  }, {
+    "id": 52,
+    "name": "Green Kirlin",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/jamiebrittain/128.jpg",
+    "title": "Human Implementation Analyst",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Carter - Sanford",
+      "phrase": "Managed client-server internet solution"
+    }
+  }, {
+    "id": 53,
+    "name": "Adelbert Bogisich",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/dannol/128.jpg",
+    "title": "Human Implementation Supervisor",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Greenholt Inc",
+      "phrase": "Compatible maximized frame"
+    }
+  }, {
+    "id": 54,
+    "name": "Lauriane Halvorson",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/marlinjayakody/128.jpg",
+    "title": "Internal Solutions Representative",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Beahan, Heller and Keebler",
+      "phrase": "Open-source explicit product"
+    }
+  }, {
+    "id": 55,
+    "name": "Fay Schmitt",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/pechkinator/128.jpg",
+    "title": "Product Branding Representative",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Lehner, Ziemann and Adams",
+      "phrase": "Optional secondary migration"
+    }
+  }, {
+    "id": 56,
+    "name": "Priscilla Kshlerin",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/devankoshal/128.jpg",
+    "title": "Central Implementation Manager",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Morissette, Herzog and Cole",
+      "phrase": "De-engineered hybrid task-force"
+    }
+  }, {
+    "id": 57,
+    "name": "Caitlyn Johns",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/IsaryAmairani/128.jpg",
+    "title": "Senior Optimization Associate",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Gusikowski Group",
+      "phrase": "Re-engineered stable support"
+    }
+  }, {
+    "id": 58,
+    "name": "Mia Kunde",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/alexandermayes/128.jpg",
+    "title": "Product Solutions Technician",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Crona - Wintheiser",
+      "phrase": "De-engineered clear-thinking structure"
+    }
+  }, {
+    "id": 59,
+    "name": "Alize Will",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/nitinhayaran/128.jpg",
+    "title": "Human Solutions Designer",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Hintz, Marvin and Doyle",
+      "phrase": "Versatile systematic parallelism"
+    }
+  }, {
+    "id": 60,
+    "name": "Ellie Russel",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/ssbb_me/128.jpg",
+    "title": "Future Mobility Analyst",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Bashirian - Goyette",
+      "phrase": "Diverse value-added installation"
+    }
+  }, {
+    "id": 61,
+    "name": "Avis Ankunding",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/evandrix/128.jpg",
+    "title": "International Paradigm Developer",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Anderson - Sanford",
+      "phrase": "Seamless discrete conglomeration"
+    }
+  }, {
+    "id": 62,
+    "name": "Dasia Hammes",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/marcobarbosa/128.jpg",
+    "title": "Human Response Agent",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Kuphal, Botsford and Kassulke",
+      "phrase": "Phased cohesive website"
+    }
+  }, {
+    "id": 63,
+    "name": "Ryley MacGyver",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/mangosango/128.jpg",
+    "title": "Chief Assurance Representative",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Ritchie - Mohr",
+      "phrase": "Mandatory foreground hardware"
+    }
+  }, {
+    "id": 64,
+    "name": "Evan Toy",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/longlivemyword/128.jpg",
+    "title": "Dynamic Usability Engineer",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Hackett Inc",
+      "phrase": "Enterprise-wide content-based productivity"
+    }
+  }, {
+    "id": 65,
+    "name": "Darien Lockman",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/cbracco/128.jpg",
+    "title": "Dynamic Group Assistant",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Monahan Group",
+      "phrase": "Self-enabling 5th generation emulation"
+    }
+  }, {
+    "id": 66,
+    "name": "Angus Cole",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/anthonysukow/128.jpg",
+    "title": "International Metrics Officer",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Yundt - Gaylord",
+      "phrase": "Inverse optimizing moderator"
+    }
+  }, {
+    "id": 67,
+    "name": "Bridie Howell",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/horaciobella/128.jpg",
+    "title": "International Paradigm Producer",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Cruickshank - Johnson",
+      "phrase": "Polarised coherent complexity"
+    }
+  }, {
+    "id": 68,
+    "name": "Jacques Glover IV",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/byrnecore/128.jpg",
+    "title": "Future Web Officer",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Harber and Sons",
+      "phrase": "Sharable real-time open system"
+    }
+  }, {
+    "id": 69,
+    "name": "Angeline Brakus",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/mhudobivnik/128.jpg",
+    "title": "Principal Creative Analyst",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Douglas - Ward",
+      "phrase": "Fully-configurable responsive hardware"
+    }
+  }, {
+    "id": 70,
+    "name": "Amara Cummerata",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/nicoleglynn/128.jpg",
+    "title": "Chief Optimization Producer",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Medhurst, Boyle and Kub",
+      "phrase": "Total full-range workforce"
+    }
+  }, {
+    "id": 71,
+    "name": "Sylvester Ledner",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/_vojto/128.jpg",
+    "title": "Investor Mobility Technician",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Grant Inc",
+      "phrase": "Persistent interactive budgetary management"
+    }
+  }, {
+    "id": 72,
+    "name": "Woodrow Deckow",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/oscarowusu/128.jpg",
+    "title": "Human Program Strategist",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Quitzon and Sons",
+      "phrase": "Up-sized bandwidth-monitored hardware"
+    }
+  }, {
+    "id": 73,
+    "name": "Shanon Cartwright",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/carlosm/128.jpg",
+    "title": "Global Data Consultant",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Brekke LLC",
+      "phrase": "Advanced client-driven complexity"
+    }
+  }, {
+    "id": 74,
+    "name": "Elvie Dietrich",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/wtrsld/128.jpg",
+    "title": "Future Operations Agent",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Ankunding Inc",
+      "phrase": "Programmable real-time paradigm"
+    }
+  }, {
+    "id": 75,
+    "name": "Miss Delfina Hilll",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/unterdreht/128.jpg",
+    "title": "Lead Metrics Manager",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Hane and Sons",
+      "phrase": "Realigned web-enabled hardware"
+    }
+  }, {
+    "id": 76,
+    "name": "Jaime Flatley",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/dparrelli/128.jpg",
+    "title": "National Factors Officer",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Kassulke Inc",
+      "phrase": "Public-key static installation"
+    }
+  }, {
+    "id": 77,
+    "name": "Richmond Wilderman",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/hellofeverrrr/128.jpg",
+    "title": "Chief Intranet Engineer",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Fritsch, Corkery and Schultz",
+      "phrase": "Organic reciprocal Graphic Interface"
+    }
+  }, {
+    "id": 78,
+    "name": "Demetris Moore",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/dss49/128.jpg",
+    "title": "Investor Operations Analyst",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Kuhic - Shields",
+      "phrase": "Proactive motivating flexibility"
+    }
+  }, {
+    "id": 79,
+    "name": "Damon Braun Jr.",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/akashsharma39/128.jpg",
+    "title": "Regional Brand Technician",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Hegmann, Bayer and Kuhic",
+      "phrase": "Reverse-engineered dedicated instruction set"
+    }
+  }, {
+    "id": 80,
+    "name": "Penelope Prohaska",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/lmjabreu/128.jpg",
+    "title": "Future Configuration Associate",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Haag, Muller and Gerlach",
+      "phrase": "Versatile systemic synergy"
+    }
+  }, {
+    "id": 81,
+    "name": "Camylle Crona",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/swooshycueb/128.jpg",
+    "title": "District Paradigm Coordinator",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Ortiz, Witting and Simonis",
+      "phrase": "Virtual content-based application"
+    }
+  }, {
+    "id": 82,
+    "name": "Roslyn Lemke",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/ricburton/128.jpg",
+    "title": "Global Directives Agent",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Farrell - Murray",
+      "phrase": "Monitored mobile process improvement"
+    }
+  }, {
+    "id": 83,
+    "name": "Linda Herman V",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/wintopia/128.jpg",
+    "title": "National Directives Representative",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Donnelly, Windler and Corwin",
+      "phrase": "Organized systematic workforce"
+    }
+  }, {
+    "id": 84,
+    "name": "Cielo Waelchi",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/samgrover/128.jpg",
+    "title": "Direct Intranet Administrator",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Schmeler Inc",
+      "phrase": "Open-source system-worthy orchestration"
+    }
+  }, {
+    "id": 85,
+    "name": "Catharine Lebsack",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/macxim/128.jpg",
+    "title": "Direct Paradigm Planner",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Carter and Sons",
+      "phrase": "Optional tangible approach"
+    }
+  }, {
+    "id": 86,
+    "name": "Ms. Conrad Wiegand",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/jimmuirhead/128.jpg",
+    "title": "Global Factors Supervisor",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Pouros, Windler and Heathcote",
+      "phrase": "Secured dedicated pricing structure"
+    }
+  }, {
+    "id": 87,
+    "name": "Rosa Zboncak",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/kianoshp/128.jpg",
+    "title": "Regional Configuration Assistant",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Vandervort - Kuhic",
+      "phrase": "Operative bandwidth-monitored help-desk"
+    }
+  }, {
+    "id": 88,
+    "name": "Frida Lemke",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/coreyhaggard/128.jpg",
+    "title": "Product Usability Orchestrator",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Jaskolski and Sons",
+      "phrase": "Function-based modular moratorium"
+    }
+  }, {
+    "id": 89,
+    "name": "Dr. Paxton Auer",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/nastya_mane/128.jpg",
+    "title": "Investor Infrastructure Designer",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Orn - Kirlin",
+      "phrase": "Versatile system-worthy help-desk"
+    }
+  }, {
+    "id": 90,
+    "name": "Rosemarie Hane",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/fuck_you_two/128.jpg",
+    "title": "International Infrastructure Liaison",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Quigley, Langosh and Leffler",
+      "phrase": "Quality-focused optimizing access"
+    }
+  }, {
+    "id": 91,
+    "name": "Alverta Brakus",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/tbakdesigns/128.jpg",
+    "title": "National Metrics Planner",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Wunsch, Wolff and Hermann",
+      "phrase": "Streamlined leading edge flexibility"
+    }
+  }, {
+    "id": 92,
+    "name": "Ms. Demetris Kreiger",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/tereshenkov/128.jpg",
+    "title": "Forward Intranet Technician",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Willms Group",
+      "phrase": "Synchronised contextually-based methodology"
+    }
+  }, {
+    "id": 93,
+    "name": "Ronny Larkin",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/faisalabid/128.jpg",
+    "title": "National Response Planner",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Sanford, Lockman and Kessler",
+      "phrase": "Right-sized bottom-line protocol"
+    }
+  }, {
+    "id": 94,
+    "name": "Dangelo Kris",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/sawalazar/128.jpg",
+    "title": "Global Program Specialist",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Rau, Dooley and Lehner",
+      "phrase": "Compatible global matrices"
+    }
+  }, {
+    "id": 95,
+    "name": "Virginie Schinner",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/jarsen/128.jpg",
+    "title": "Investor Solutions Engineer",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Conn - Hodkiewicz",
+      "phrase": "Seamless foreground time-frame"
+    }
+  }, {
+    "id": 96,
+    "name": "Modesta Mertz",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/cyril_gaillard/128.jpg",
+    "title": "Chief Division Developer",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Jacobi - Kessler",
+      "phrase": "Up-sized client-driven methodology"
+    }
+  }, {
+    "id": 97,
+    "name": "Abraham Haley",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/terrorpixel/128.jpg",
+    "title": "Regional Operations Consultant",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Harber, Brakus and Bosco",
+      "phrase": "Object-based contextually-based knowledge user"
+    }
+  }, {
+    "id": 98,
+    "name": "Kristofer Herzog",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/fuck_you_two/128.jpg",
+    "title": "Regional Response Associate",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Ratke - Kling",
+      "phrase": "Re-contextualized systematic throughput"
+    }
+  }, {
+    "id": 99,
+    "name": "Pierce Effertz",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/jmillspaysbills/128.jpg",
+    "title": "National Quality Agent",
+    "team": "Development-Macys",
+    "company": {
+      "name": "Hills Group",
+      "phrase": "Multi-layered zero tolerance capability"
+    }
+  }]
+}
