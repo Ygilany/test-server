@@ -6,7 +6,7 @@ const server = restify.createServer({
   version: pkg.version
 });
 
-// server.use(restify.acceptParser(server.acceptable));
+server.use(restify.acceptParser(server.acceptable));
 server.use(restify.dateParser());
 server.use(restify.queryParser());
 server.use(restify.jsonp());
