@@ -1,9 +1,11 @@
-require(`babel-polyfill`);
+"use strict";
 
-const restify = require(`restify`);
-const pkg = require(`../package.json`);
-const config = require(`../config.json`);
-const server = restify.createServer({
+require("babel-polyfill");
+
+var restify = require("restify");
+var pkg = require("../package.json");
+var config = require("../config.json");
+var server = restify.createServer({
   name: pkg.name,
   version: pkg.version
 });
@@ -16,7 +18,7 @@ server.use(restify.gzipResponse());
 server.use(restify.bodyParser());
 
 // Routes
-require(`./routes/query`)(server);
+require("./routes/query")(server);
 
 server.listen(config.server.port);
-console.log(`Listening on port ${ config.server.port }`); // eslint-disable-line
+console.log("Listening on port " + config.server.port); // eslint-disable-line

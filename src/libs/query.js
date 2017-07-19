@@ -6,7 +6,7 @@ exports.runQuery = (query) => {
   return Bookshelf.knex.raw(query)
   .then(data => {
     // any data massaging or cleaning is done here
-    return data;
+    return data[0];
   })
   .catch(err => {
     throw new Error(err);

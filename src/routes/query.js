@@ -15,7 +15,7 @@ module.exports = server => {
         ResponseHandler(
           res,
           `Successfully got results`,
-          { example }
+          { results }
         );
       } catch (err) {
         ErrorHandler(res, err);
