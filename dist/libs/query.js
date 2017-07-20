@@ -14,11 +14,6 @@ exports.runQuery = function (query) {
 
 exports.getRandom = function () {
   return Bookshelf.knex.raw("SELECT * FROM test.quotes ORDER BY rand() LIMIT 1").then(function (data) {
-
-    console.log({
-      id: data[0][0].id,
-      text: data[0][0].text
-    });
     return {
       id: data[0][0].id,
       text: data[0][0].text
@@ -27,5 +22,3 @@ exports.getRandom = function () {
     throw new Error(err);
   });
 };
-
-exports.getRandom();

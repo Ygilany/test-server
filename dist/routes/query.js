@@ -57,7 +57,7 @@ module.exports = function (server) {
             case 0:
               _context2.prev = 0;
               _context2.next = 3;
-              return Query.getRandom(req.params.tableName);
+              return Query.getRandom();
 
             case 3:
               results = _context2.sent;
