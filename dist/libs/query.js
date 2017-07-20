@@ -13,7 +13,7 @@ exports.runQuery = function (query) {
 };
 
 exports.getRandom = function () {
-  return Bookshelf.knex.raw("SELECT * FROM test.quotes ORDER BY rand() LIMIT 1").then(function (data) {
+  return Bookshelf.knex.raw("SELECT * FROM AbMe.quotes ORDER BY rand() LIMIT 1").then(function (data) {
     return {
       id: data[0][0].id,
       text: data[0][0].text

@@ -14,7 +14,7 @@ exports.runQuery = (query) => {
 
 exports.getRandom = () => {
   return Bookshelf.knex.raw(
-    `SELECT * FROM test.quotes ORDER BY rand() LIMIT 1`
+    `SELECT * FROM AbMe.quotes ORDER BY rand() LIMIT 1`
   )
   .then(data => {
     return {
