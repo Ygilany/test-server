@@ -47,4 +47,42 @@ module.exports = function (server) {
       return _ref.apply(this, arguments);
     };
   }());
+
+  server.get(BASE_URL + "/random", function () {
+    var _ref2 = _asyncToGenerator(regeneratorRuntime.mark(function _callee2(req, res) {
+      var results;
+      return regeneratorRuntime.wrap(function _callee2$(_context2) {
+        while (1) {
+          switch (_context2.prev = _context2.next) {
+            case 0:
+              _context2.prev = 0;
+              _context2.next = 3;
+              return Query.getRandom(req.params.tableName);
+
+            case 3:
+              results = _context2.sent;
+
+
+              ResponseHandler(res, "Successfully got results", { results: results });
+              _context2.next = 10;
+              break;
+
+            case 7:
+              _context2.prev = 7;
+              _context2.t0 = _context2["catch"](0);
+
+              ErrorHandler(res, _context2.t0);
+
+            case 10:
+            case "end":
+              return _context2.stop();
+          }
+        }
+      }, _callee2, undefined, [[0, 7]]);
+    }));
+
+    return function (_x3, _x4) {
+      return _ref2.apply(this, arguments);
+    };
+  }());
 };

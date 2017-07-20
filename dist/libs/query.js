@@ -1,6 +1,6 @@
 "use strict";
 
-// const jsonify = require(`../Database`).jsonify;
+var jsonify = require("./database").jsonify;
 var Bookshelf = require("./database").__bookshelf;
 
 exports.runQuery = function (query) {
@@ -11,3 +11,21 @@ exports.runQuery = function (query) {
     throw new Error(err);
   });
 };
+
+exports.getRandom = function () {
+  return Bookshelf.knex.raw("SELECT * FROM test.quotes ORDER BY rand() LIMIT 1").then(function (data) {
+
+    console.log({
+      id: data[0][0].id,
+      text: data[0][0].text
+    });
+    return {
+      id: data[0][0].id,
+      text: data[0][0].text
+    };
+  }).catch(function (err) {
+    throw new Error(err);
+  });
+};
+
+exports.getRandom();

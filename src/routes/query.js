@@ -22,4 +22,21 @@ module.exports = server => {
       }
     }
   );
+
+  server.get(
+    `${ BASE_URL }/random`,
+    async(req, res) => {
+      try {
+        const results = await Query.getRandom();
+  
+        ResponseHandler(
+          res,
+          `Successfully got results`,
+          { results }
+        );
+      } catch (err) {
+        ErrorHandler(res, err);
+      }
+    }
+  );
 };
